@@ -1,2 +1,2 @@
 # cf-ddns.sh
-DDNS using CloudFlare API
+A DDNS hell script using CloudFlare API v4.
